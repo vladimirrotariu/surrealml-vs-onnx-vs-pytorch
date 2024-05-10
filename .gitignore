@@ -1,0 +1,6 @@
+.venv
+surreal
+storage
+cache
+*.surmlcache
+.ipynb_checkpoints
