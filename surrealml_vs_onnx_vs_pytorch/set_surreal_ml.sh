@@ -13,4 +13,4 @@ curl -sSf https://install.surrealdb.com | sh
 curl https://sh.rustup.rs -sSf | sh -s -- -y
 source /home/"$USER"/.cargo/env
 
-surreal start --allow-all --bind 127.0.0.1:$PORT
+surreal start --unauthenticated --bind 127.0.0.1:$PORT
