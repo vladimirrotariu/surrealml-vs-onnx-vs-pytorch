@@ -14,6 +14,7 @@ surrealml = { git = "https://github.com/surrealdb/surrealml", extras = ["torch"]
 onnx = "^1.17.0"
 onnxscript = "^0.1.0.dev20241014"
 onnxruntime-gpu = "^1.19.2"
+surrealist = "^1.0.2"
 
 
 [tool.poetry.group.dev.dependencies]
