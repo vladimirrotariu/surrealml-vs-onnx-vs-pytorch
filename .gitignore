@@ -4,3 +4,4 @@ storage
 cache
 *.surmlcache
 .ipynb_checkpoints
+__pycache__
