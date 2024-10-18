@@ -1,1 +1,0 @@
-2024/10/18-11:27:41.411978 140314761428928 [WARN] [db/db_impl/db_impl_open.cc:2074] DB::Open() failed: IO error: While lock file: fake_data/LOCK: Resource temporarily unavailable
