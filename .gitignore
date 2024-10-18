@@ -5,3 +5,4 @@ cache
 *.surmlcache
 .ipynb_checkpoints
 __pycache__
+surreal.log

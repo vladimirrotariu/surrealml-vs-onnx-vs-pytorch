@@ -15,6 +15,7 @@ matplotlib = "^3.9.2"
 surrealist = "^1.0.2"
 surrealdb = "^0.3.2"
 seaborn = "^0.13.2"
+onnx = "^1.17.0"
 
 
 [tool.poetry.group.dev.dependencies]
