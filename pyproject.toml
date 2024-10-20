@@ -16,6 +16,7 @@ surrealist = "^1.0.2"
 surrealdb = "^0.3.2"
 seaborn = "^0.13.2"
 onnx = "^1.17.0"
+onnxscript = "^0.1.0.dev20241018"
 
 
 [tool.poetry.group.dev.dependencies]

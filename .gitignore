@@ -2,7 +2,6 @@
 surreal
 storage
 cache
-*.surmlcache
+.surmlcache
 .ipynb_checkpoints
 __pycache__
-surreal.log
