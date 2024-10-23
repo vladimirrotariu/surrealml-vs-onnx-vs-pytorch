@@ -9,8 +9,8 @@ Y88b  d88P Y88b 888 888     888     Y8b.     888  888 888 888  .d88P 888   d88P
  'Y8888P'   'Y88888 888     888      'Y8888  'Y888888 888 8888888P'  8888888P'
 
 
-[2m2024-10-23T00:19:47.738546Z[0m [32m INFO[0m [2msurreal::env[0m[2m:[0m Running 1.5.5 for linux on x86_64
-[2m2024-10-23T00:19:47.738562Z[0m [33m WARN[0m [2msurreal::dbs[0m[2m:[0m ❌🔒 IMPORTANT: Authentication is disabled. This is not recommended for production use. 🔒❌
-[2m2024-10-23T00:19:47.738569Z[0m [32m INFO[0m [2msurrealdb_core::kvs::ds[0m[2m:[0m Starting kvs store at rocksdb://fake_data
-[2m2024-10-23T00:19:47.842160Z[0m [32m INFO[0m [2msurrealdb_core::kvs::ds[0m[2m:[0m Started kvs store at rocksdb://fake_data
-[2m2024-10-23T00:19:47.842847Z[0m [32m INFO[0m [2msurrealdb::net[0m[2m:[0m Started web server on 0.0.0.0:53333
+[2m2024-10-23T02:00:52.133602Z[0m [32m INFO[0m [2msurreal::env[0m[2m:[0m Running 1.5.5 for linux on x86_64
+[2m2024-10-23T02:00:52.133638Z[0m [33m WARN[0m [2msurreal::dbs[0m[2m:[0m ❌🔒 IMPORTANT: Authentication is disabled. This is not recommended for production use. 🔒❌
+[2m2024-10-23T02:00:52.133662Z[0m [32m INFO[0m [2msurrealdb_core::kvs::ds[0m[2m:[0m Starting kvs store at rocksdb://fake_data
+[2m2024-10-23T02:00:52.298722Z[0m [32m INFO[0m [2msurrealdb_core::kvs::ds[0m[2m:[0m Started kvs store at rocksdb://fake_data
+[2m2024-10-23T02:00:52.300171Z[0m [32m INFO[0m [2msurrealdb::net[0m[2m:[0m Started web server on 0.0.0.0:53333
