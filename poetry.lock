@@ -442,13 +442,13 @@ woff = ["brotli (>=1.0.1)", "brotlicffi (>=0.8.0)", "zopfli (>=0.1.4)"]
 
 [[package]]
 name = "fsspec"
-version = "2024.9.0"
+version = "2024.10.0"
 description = "File-system specification"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "fsspec-2024.9.0-py3-none-any.whl", hash = "sha256:a0947d552d8a6efa72cc2c730b12c41d043509156966cca4fb157b0f2a0c574b"},
-    {file = "fsspec-2024.9.0.tar.gz", hash = "sha256:4b0afb90c2f21832df142f292649035d80b421f60a9e1c027802e5a0da2b04e8"},
+    {file = "fsspec-2024.10.0-py3-none-any.whl", hash = "sha256:03b9a6785766a4de40368b88906366755e2819e758b83705c88cd7cb5fe81871"},
+    {file = "fsspec-2024.10.0.tar.gz", hash = "sha256:eda2d8a4116d4f2429db8550f2457da57279247dd930bb12f821b58391359493"},
 ]
 
 [package.extras]
@@ -1038,13 +1038,13 @@ files = [
 
 [[package]]
 name = "networkx"
-version = "3.4.1"
+version = "3.4.2"
 description = "Python package for creating and manipulating graphs and networks"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "networkx-3.4.1-py3-none-any.whl", hash = "sha256:e30a87b48c9a6a7cc220e732bffefaee585bdb166d13377734446ce1a0620eed"},
-    {file = "networkx-3.4.1.tar.gz", hash = "sha256:f9df45e85b78f5bd010993e897b4f1fdb242c11e015b101bd951e5c0e29982d8"},
+    {file = "networkx-3.4.2-py3-none-any.whl", hash = "sha256:df5d4365b724cf81b8c6a7312509d0c22386097011ad1abe274afd5e9d3bbc5f"},
+    {file = "networkx-3.4.2.tar.gz", hash = "sha256:307c3669428c5362aab27c8a1260aa8f47c4e91d3891f48be0141738d8d053e1"},
 ]
 
 [package.extras]
@@ -1286,13 +1286,13 @@ reference = ["Pillow", "google-re2"]
 
 [[package]]
 name = "onnxscript"
-version = "0.1.0.dev20241018"
+version = "0.1.0.dev20241023"
 description = "Naturally author ONNX functions and models using a subset of Python"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "onnxscript-0.1.0.dev20241018-py3-none-any.whl", hash = "sha256:c85ba4592feae0a63c71f5cb489fdebb9bf5f037784d6f7f9c0bb451c12dbe02"},
-    {file = "onnxscript-0.1.0.dev20241018.tar.gz", hash = "sha256:2e93e56492e25ef1c2acb1c89be4fe98b76f5f55c0152d2e45b8db5e9970c5a6"},
+    {file = "onnxscript-0.1.0.dev20241023-py3-none-any.whl", hash = "sha256:7949b77a5be0c6f386559800882a352bc31773561a4b3271b2e4d7cfc4805796"},
+    {file = "onnxscript-0.1.0.dev20241023.tar.gz", hash = "sha256:9f36ed7aab0a06652905eba6e0e8f4d45eea52e58a01c20beb50dc78d74f776b"},
 ]
 
 [package.dependencies]
