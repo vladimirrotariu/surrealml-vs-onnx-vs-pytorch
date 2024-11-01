@@ -11,7 +11,9 @@ poetry install
 ```
 and then follow the Jupyter notebook attached.
 
-Alternatively, you can access the notebook in the [PDF format](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/blob/main/surrealml_vs_onnx_vs_pytorch/comparing_surreal_ml_onnx_pytorch.pdf)
+For convenience, you can find here [a PDF version](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/blob/main/surrealml_vs_onnx_vs_pytorch/comparing_surreal_ml_onnx_pytorch.pdf) of the Jupyter notebook.
+
+
 ## System specs
 We used the following setup to create the benchmark:
 ```text
